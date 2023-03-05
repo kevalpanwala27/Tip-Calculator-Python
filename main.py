@@ -10,3 +10,5 @@ bill_as_person = total_bill/people
 print(f"Each person has to pay {bill_as_person}")
 
 
+
+
